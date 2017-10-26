@@ -1,0 +1,29 @@
+.fondo{
+	width:1200px;
+    height: :auto;
+}
+ul{
+	color:#ff00bf;
+	position: relative;
+	float: right;
+}
+
+#text_send{
+	color:#FFF;
+	font-family:'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.send{
+background-color:#333447;
+border-radius: 5px;
+text-align:left;
+width:80px;
+height:auto;
+margin-left:220px;
+}
+div.send:hover {
+background-color: #3c9181;
+cursor:pointer;
+}
